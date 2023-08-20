@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icons/topbar/Close.png</file>
+        <file>icons/topbar/Maximize.png</file>
+        <file>icons/topbar/Minimize.png</file>
+        <file>icons/topbar/Restore.png</file>
+        <file>icons/topbar/Round.png</file>
+        <file>icons/tray/SystemTray.png</file>
+    </qresource>
+</RCC>
